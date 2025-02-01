@@ -1,0 +1,15 @@
+.about{
+    height: 82vh;
+    background-color: rgb(26, 188, 156);
+    text-align: center;
+    color: white;
+    align-content: center;
+}
+.div{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+.padding{
+    padding: 40px;
+}
