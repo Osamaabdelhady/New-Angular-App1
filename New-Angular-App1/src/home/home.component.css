@@ -1,0 +1,15 @@
+.home{
+    height: 82vh;
+    background-color: rgb(26, 188, 156);
+    text-align: center;
+    color: white;
+}
+.home img{
+    margin-top: 70px;
+    width: 20%;
+}
+.div{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
